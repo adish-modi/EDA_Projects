@@ -1,2 +1,2 @@
-# ML_Projects
-Machine learning projects
+# EDA_Projects
+Exploratory Data Analysis projects
